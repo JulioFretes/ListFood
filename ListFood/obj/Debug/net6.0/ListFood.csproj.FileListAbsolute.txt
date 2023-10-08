@@ -59,3 +59,33 @@ C:\Users\REI DELAS\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\refint\ListFo
 C:\Users\REI DELAS\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.pdb
 C:\Users\REI DELAS\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.genruntimeconfig.cache
 C:\Users\REI DELAS\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ref\ListFood.dll
+C:\Users\jfret\Source\Repos\ListFood\ListFood\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jfret\Source\Repos\ListFood\ListFood\bin\Debug\net6.0\appsettings.json
+C:\Users\jfret\Source\Repos\ListFood\ListFood\bin\Debug\net6.0\ListFood.staticwebassets.runtime.json
+C:\Users\jfret\Source\Repos\ListFood\ListFood\bin\Debug\net6.0\ListFood.exe
+C:\Users\jfret\Source\Repos\ListFood\ListFood\bin\Debug\net6.0\ListFood.deps.json
+C:\Users\jfret\Source\Repos\ListFood\ListFood\bin\Debug\net6.0\ListFood.runtimeconfig.json
+C:\Users\jfret\Source\Repos\ListFood\ListFood\bin\Debug\net6.0\ListFood.dll
+C:\Users\jfret\Source\Repos\ListFood\ListFood\bin\Debug\net6.0\ListFood.pdb
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.AssemblyInfoInputs.cache
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.AssemblyInfo.cs
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.csproj.CoreCompileInputs.cache
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.RazorAssemblyInfo.cache
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.RazorAssemblyInfo.cs
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\staticwebassets\msbuild.ListFood.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\staticwebassets\msbuild.build.ListFood.props
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ListFood.props
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ListFood.props
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\scopedcss\bundle\ListFood.styles.css
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\scopedcss\projectbundle\ListFood.bundle.scp.css
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.dll
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\refint\ListFood.dll
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.pdb
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ListFood.genruntimeconfig.cache
+C:\Users\jfret\Source\Repos\ListFood\ListFood\obj\Debug\net6.0\ref\ListFood.dll
